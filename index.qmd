@@ -4,6 +4,6 @@ title: "Out Website"
 
 This is a Quarto website.
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cabq.gov%2Fartsculture%2Fbiopark%2Fnews%2F10-cool-facts-about-penguins&psig=AOvVaw0FjAhQzgOGNlQQtoIc_GWg&ust=1757516607718000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCNDdj9z5y48DFQAAAAAdAAAAABAE)
+![](https://www.wwf.org.uk/sites/default/files/styles/max_650x650/public/2019-04/Emperor%20penguin%20chicks.jpg?itok=47W2gu8A)
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
